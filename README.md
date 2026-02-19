@@ -49,16 +49,19 @@ Silly story generator/
 ## 📈 Development Progress
 
 ### Completed
+
 - [x] Project setup with HTML, CSS, and JavaScript files
 - [x] CSS resets and base styling
 - [x] Basic HTML structure with input field
 
 ### In Progress
+
 - [ ] Story generation logic
 - [ ] Button functionality
 - [ ] Random story elements
 
 ### To Do
+
 - [ ] Additional styling and animations
 - [ ] Story customization options
 - [ ] Local storage for favorites
